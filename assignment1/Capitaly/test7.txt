@@ -1,0 +1,9 @@
+3
+A Q 2000 Lu 200
+5
+A G
+B C
+C T
+D Gr
+E Ta
+1 2 3 4 5
